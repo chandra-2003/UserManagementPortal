@@ -38,14 +38,11 @@ The frontend app runs on http://localhost:3000
 ---
 
 ## Screenshots
-_(Add screenshots here after uploading images to your repo)_
 
-![User List](./frontend/screenshots/user-list.png)  
-![Add User](./frontend/screenshots/add-user.png)  
-![Edit User](./frontend/screenshots/edit-user.png)
+![Add User](Images/Image1.png)
+![User Dashboard](Images/Image2.png)
+![Edit User](Images/Image3.png)
+![User Details](Images/Image4.png)
 
----
-
-Feel free to clone, fork, and contribute!
 
 
