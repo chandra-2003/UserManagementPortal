@@ -10,7 +10,7 @@ function Home() {
       }}
     >
       <h1 style={{ fontWeight: 700, fontSize: '2.5rem' }}>
-        Welcome to the User Administration Portal
+        Welcome to the User Management Dashboard
       </h1>
     </div>
   );
