@@ -39,10 +39,10 @@ The frontend app runs on http://localhost:3000
 
 ## Screenshots
 
-![Add User](Images/Image1.png)
-![User Dashboard](Images/Image2.png)
-![Edit User](Images/Image3.png)
-![User Details](Images/Image4.png)
+[Add User](Images/Image1.png)
+[User Dashboard](Images/Image2.png)
+[Edit User](Images/Image3.png)
+[User Details](Images/Image4.png)
 
 
 
