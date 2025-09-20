@@ -1,4 +1,4 @@
-# User Management Portal
+#User Management Dashboard
 
 ## Project Overview
 This repository contains a full-stack user management application. The project is divided into two folders:
